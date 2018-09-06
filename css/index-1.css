@@ -1,0 +1,51 @@
+.wrap{
+	width: 1208px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.top{
+	height: 44px;
+	background-color: #f3f5f7;
+}
+
+.logo{
+	height: 124px;
+	background-color: #f3f5f7;
+}
+
+.nav{
+	height: 48px;
+	background-color: #07111b;
+}
+
+.banner{
+	width: 984px;
+	height: 506px;
+	margin: 0 auto;
+	padding: 8px 0 0 218px;
+}
+
+.banner_slide{
+	width: 730px;
+	height: 506px;
+	float: left;
+}
+
+.banner_news{
+	width: 249px;
+	height: 506px;
+	background-color: #ccc;
+	float: right;
+}
+
+.link{
+	height: 120px;
+}
+
+.foot{
+	height: 80px;
+	background-color: #f3f5f7;
+}
+
+
